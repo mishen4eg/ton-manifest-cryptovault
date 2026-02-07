@@ -1,7 +1,7 @@
 {
   "url": "https://t.me/cryptovaultbank_bot",
   "name": "Crypto Vault Bank Bot",
-  "iconUrl": "https://raw.githubusercontent.com/ton-connect/demo-dapp/main/public/tonconnect-icon.png",
-  "termsOfUseUrl": "https://github.com/ton-connect/demo-dapp/blob/main/terms.md",
-  "privacyPolicyUrl": "https://github.com/ton-connect/demo-dapp/blob/main/privacy.md"
+  "iconUrl": "https://raw.githubusercontent.com/mishen4eg/ton-manifest-cryptovault/main/icon.png",
+  "termsOfUseUrl": "https://github.com/mishen4eg/ton-manifest-cryptovault/blob/main/terms.md",
+  "privacyPolicyUrl": "https://github.com/mishen4eg/ton-manifest-cryptovault/blob/main/privacy.md"
 }
